@@ -1,0 +1,13 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.15 Chrome/134.0.6998.205 Electron/35.2.1 Safari/537.36" version="26.2.15">
+  <diagram name="第 1 页" id="DBwxAttNOG9XxzyjzNUA">
+    <mxGraphModel dx="1181" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KY0CakMeOe4X9dqHLQt9-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;RG&lt;/h1&gt;&lt;p&gt;1.操作模式：方向键+技能释放键&lt;/p&gt;&lt;p&gt;2.成长要素：职业、天赋、武器、道具(被动)、技能、融合武器、融合道具、局外养成&lt;/p&gt;&lt;p&gt;3.环境要素：沼泽、水潭、落雷、风向、树林、地刺、传送带、电网&lt;/p&gt;&lt;p&gt;4.怪物要素：近战、远程、盾兵、精英怪(高攻、摇人、高速)、Boss&lt;/p&gt;&lt;p&gt;5.奖励要素：宝箱掉落、武器/道具掉落(注：稀有道具要有闪光效果)、宝石掉落&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="240" width="500" height="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
