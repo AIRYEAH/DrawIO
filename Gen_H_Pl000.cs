@@ -1,0 +1,111 @@
+namespace SG
+{
+	public static class H_Pl000_States
+	{
+		public const string L0_Locomotion_Combat__Idle = "Locomotion_Combat.Idle";
+		public const string L0_Locomotion_Combat__Move = "Locomotion_Combat.Move";
+		public const string L0_Locomotion_Combat__Move_Start_Forward = "Locomotion_Combat.Move_Start_Forward";
+		public const string L0_Locomotion_Combat__Move_Start_Left = "Locomotion_Combat.Move_Start_Left";
+		public const string L0_Locomotion_Combat__Move_Start_Right = "Locomotion_Combat.Move_Start_Right";
+		public const string L0_Locomotion_Combat__Move_End = "Locomotion_Combat.Move_End";
+		public const string L0_Locomotion_Combat__Move_Start_Back = "Locomotion_Combat.Move_Start_Back";
+		public const string L0_Locomotion_Normal__Idle = "Locomotion_Normal.Idle";
+		public const string L0_Locomotion_Normal__Move = "Locomotion_Normal.Move";
+		public const string L0_Locomotion_Normal__Move_Start_Forward = "Locomotion_Normal.Move_Start_Forward";
+		public const string L0_Locomotion_Normal__Move_Start_Left = "Locomotion_Normal.Move_Start_Left";
+		public const string L0_Locomotion_Normal__Move_Start_Right = "Locomotion_Normal.Move_Start_Right";
+		public const string L0_Locomotion_Normal__Move_End = "Locomotion_Normal.Move_End";
+		public const string L0_Locomotion_Normal__Run = "Locomotion_Normal.Run";
+		public const string L0_Locomotion_Normal__Run_End = "Locomotion_Normal.Run_End";
+		public const string L0_Locomotion_Normal__Run_TurnBack = "Locomotion_Normal.Run_TurnBack";
+		public const string L0_Locomotion_Normal__Move_Start_Back = "Locomotion_Normal.Move_Start_Back";
+		public const string L0_Locomotion_Normal__Tired_To_Idle = "Locomotion_Normal.Tired_To_Idle";
+		public const string L0_Locomotion_Normal__Tired_Loop = "Locomotion_Normal.Tired_Loop";
+		public const string L0_Locomotion_Normal__Tired = "Locomotion_Normal.Tired";
+		public const string L1_BaseLayer = "Base Layer";
+		public const string L1_Jump__Falling_01 = "Jump.Falling_01";
+		public const string L1_Jump__Main_Jump_01 = "Jump.Main_Jump_01";
+		public const string L1_Jump__Main_Jump_Lift_01 = "Jump.Main_Jump_Lift_01";
+		public const string L1_Jump__Main_Jump_Idle_01 = "Jump.Main_Jump_Idle_01";
+		public const string L1_Jump__Main_Jump_End_01 = "Jump.Main_Jump_End_01";
+		public const string L1_Jump__Main_Jump_Evade_01 = "Jump.Main_Jump_Evade_01";
+		public const string L1_Jump__Falling_02 = "Jump.Falling_02";
+		public const string L1_Jump__Falling_03 = "Jump.Falling_03";
+		public const string L1_Damage__Dead_01 = "Damage.Dead_01";
+		public const string L1_Damage__Behited_Front_Light = "Damage.Behited_Front_Light";
+		public const string L1_Damage__Behited_Left_Light = "Damage.Behited_Left_Light";
+		public const string L1_Damage__Behited_Right_Light = "Damage.Behited_Right_Light";
+		public const string L1_Damage__Behited_Back_Light = "Damage.Behited_Back_Light";
+		public const string L1_Damage__BehitedToIdle_01 = "Damage.BehitedToIdle_01";
+		public const string L1_Damage__Behited_Shouting_Air_03 = "Damage.Behited_Shouting_Air_03";
+		public const string L1_Damage__Behited_Shouting_Grounded_03 = "Damage.Behited_Shouting_Grounded_03";
+		public const string L1_Damage__BehitedToIdle_02 = "Damage.BehitedToIdle_02";
+		public const string L1_Damage__Behited_Shouting_Air_02 = "Damage.Behited_Shouting_Air_02";
+		public const string L1_Damage__Behited_Shouting_Air_01 = "Damage.Behited_Shouting_Air_01";
+		public const string L1_Damage__Behited_Shouting_Grounded_02 = "Damage.Behited_Shouting_Grounded_02";
+		public const string L1_Damage__Behited_Shouting_Grounded_01 = "Damage.Behited_Shouting_Grounded_01";
+		public const string L1_Damage__Behited_Back_Middle_Loop = "Damage.Behited_Back_Middle_Loop";
+		public const string L1_Damage__Behited_Front_Middle_Loop = "Damage.Behited_Front_Middle_Loop";
+		public const string L1_Damage__Behited_Back_Middle_Landed = "Damage.Behited_Back_Middle_Landed";
+		public const string L1_Damage__Behited_Front_Middle_Landed = "Damage.Behited_Front_Middle_Landed";
+		public const string L1_Damage__Behited_Front_Middle = "Damage.Behited_Front_Middle";
+		public const string L1_Damage__Behited_Back_Middle = "Damage.Behited_Back_Middle";
+		public const string L1_Damage__Behited_Front_Light_Normal = "Damage.Behited_Front_Light_Normal";
+		public const string L1_Damage__Behited_Left_Light_Normal = "Damage.Behited_Left_Light_Normal";
+		public const string L1_Damage__Behited_Right_Light_Normal = "Damage.Behited_Right_Light_Normal";
+		public const string L1_Damage__Behited_Back_Light_Normal = "Damage.Behited_Back_Light_Normal";
+		public const string L1_ChargeAttack__ChargeAttack_01_Release = "ChargeAttack.ChargeAttack_01_Release";
+		public const string L1_ChargeAttack__ChargeAttack_01_Release_Full = "ChargeAttack.ChargeAttack_01_Release_Full";
+		public const string L1_ChargeAttack__ChargeAttack_01_Hold = "ChargeAttack.ChargeAttack_01_Hold";
+		public const string L1_ChargeAttack__ChargeAttack_01 = "ChargeAttack.ChargeAttack_01";
+		public const string L1_ChargeAttack__ChargeAttack_02_Release = "ChargeAttack.ChargeAttack_02_Release";
+		public const string L1_ChargeAttack__ChargeAttack_02_Release_Full = "ChargeAttack.ChargeAttack_02_Release_Full";
+		public const string L1_ChargeAttack__ChargeAttack_02_Hold = "ChargeAttack.ChargeAttack_02_Hold";
+		public const string L1_ChargeAttack__ChargeAttack_02 = "ChargeAttack.ChargeAttack_02";
+		public const string L1_NormalAttack__NormalAttack_02 = "NormalAttack.NormalAttack_02";
+		public const string L1_NormalAttack__NormalAttack_03 = "NormalAttack.NormalAttack_03";
+		public const string L1_NormalAttack__NormalAttack_01 = "NormalAttack.NormalAttack_01";
+		public const string L1_Dodge__Roll_Forward = "Dodge.Roll_Forward";
+		public const string L1_Dodge__Roll_Back = "Dodge.Roll_Back";
+		public const string L1_Dodge__Roll_Left = "Dodge.Roll_Left";
+		public const string L1_Dodge__Roll_Right = "Dodge.Roll_Right";
+		public const string L1_Dodge__Switch_Back = "Dodge.Switch_Back";
+		public const string L1_Dodge__Switch_Forward = "Dodge.Switch_Forward";
+		public const string L1_Dodge__Switch_Left = "Dodge.Switch_Left";
+		public const string L1_Dodge__Switch_Right = "Dodge.Switch_Right";
+		public const string L1_Dodge__Roll_BackToMove = "Dodge.Roll_BackToMove";
+		public const string L1_Dodge__Roll_ForwardToMove = "Dodge.Roll_ForwardToMove";
+		public const string L1_Dodge__Normal_Roll_Forward = "Dodge.Normal_Roll_Forward";
+		public const string L1_TriggerAction__ReBound_01 = "TriggerAction.ReBound_01";
+		public const string L1_TriggerAction__CrossFogWall = "TriggerAction.CrossFogWall";
+		public const string L1_TriggerAction__Revive_01 = "TriggerAction.Revive_01";
+		public const string L1_TriggerAction__Revive_02 = "TriggerAction.Revive_02";
+		public const string L1_TriggerAction__Rest_01 = "TriggerAction.Rest_01";
+		public const string L1_AirAttack__AirAttack_01 = "AirAttack.AirAttack_01";
+		public const string L1_Weapon__Idle_Receive_01 = "Weapon.Idle_Receive_01";
+		public const string L1_Weapon__Idle_TakeOut_01 = "Weapon.Idle_TakeOut_01";
+		public const string L1_Weapon__Move_Receive_01 = "Weapon.Move_Receive_01";
+		public const string L1_Climb__Combat_Climb = "Climb.Combat_Climb";
+		public const string L1_Climb__Normal_Climb = "Climb.Normal_Climb";
+		public const string L2_Switch_Weapon_Right = "Switch_Weapon_Right";
+		public const string L2_BaseLayer = "Base Layer";
+		public const string L2_Switch_Weapon_Left = "Switch_Weapon_Left";
+	}
+
+	public static class H_Pl000_Parameters
+	{
+		public const string float_Horizontal = "Horizontal";
+		public const string float_Vertical = "Vertical";
+		public const string float_Rotation = "Rotation";
+		public const string float_InAirTimer = "InAirTimer";
+		public const string float_Velocity = "Velocity";
+		public const string bool_isGrounded = "isGrounded";
+		public const string bool_isMoving = "isMoving";
+		public const string bool_isSprinting = "isSprinting";
+		public const string bool_isCombatMode = "isCombatMode";
+		public const string bool_isHoldAction1 = "isHoldAction1";
+		public const string bool_isHoldAction2 = "isHoldAction2";
+		public const string bool_isHoldAction3 = "isHoldAction3";
+		public const string bool_isHoldInteraction = "isHoldInteraction";
+	}
+}
